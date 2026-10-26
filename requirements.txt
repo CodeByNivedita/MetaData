@@ -1,0 +1,10 @@
+python-docx
+pandas
+pydantic
+groq
+python-dotenv
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+
